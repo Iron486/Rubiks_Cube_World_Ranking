@@ -6,6 +6,8 @@ The dataset contains 3 tables:
 - The second (`persons.csv`) one includes the people who participated in at least one competition, with their respective name, country, gender, ID and sub ID (the last one was created to avoid confusion among people who share the same name).
 - The third table (`ranking.csv`) shows the world, the continental and the national ranking of the people for each event in which they participated (Note that the ranking is based considering the least-time resolution of the cube).
 
+Remember to star the repository if you found the dataset useful and inspiring :).
+
 ### **Collection methodology**
 
 The tables were extracted from the following website: https://www.worldcubeassociation.org deriving from the 'results' tab. They were updated to the ranking of June 11, 2022. 
