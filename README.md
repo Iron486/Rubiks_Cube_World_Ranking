@@ -10,5 +10,5 @@ The dataset contains 3 tables:
 
 The tables were extracted from the following website: https://www.worldcubeassociation.org deriving from the 'results' tab. They were updated to the ranking of June 11, 2022. 
 
-Moreover, the extracted tables were selected considering the ones with meaningful information regarding the ranking and some of the columns were renamed or dropped.
+Moreover, the extracted tables were selected considering the ones with meaningful information regarding the ranking and some of the columns were renamed or dropped. Click the following file [rename_drop_WCA_data.ipynb](https://github.com/Iron486/Rubiks_Cube_World_Ranking/blob/main/rename_drop_WCA_data.ipynb) to take a look at the preprocessing steps.
 
