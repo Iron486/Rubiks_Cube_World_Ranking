@@ -1,0 +1,22 @@
+,event_Id,name
+0,222,2x2x2 Cube
+1,333,3x3x3 Cube
+2,333bf,3x3x3 Blindfolded
+3,333fm,3x3x3 Fewest Moves
+4,333ft,3x3x3 With Feet
+5,333mbf,3x3x3 Multi-Blind
+6,333mbo,3x3x3 Multi-Blind Old Style
+7,333oh,3x3x3 One-Handed
+8,444,4x4x4 Cube
+9,444bf,4x4x4 Blindfolded
+10,555,5x5x5 Cube
+11,555bf,5x5x5 Blindfolded
+12,666,6x6x6 Cube
+13,777,7x7x7 Cube
+14,clock,Clock
+15,magic,Magic
+16,minx,Megaminx
+17,mmagic,Master Magic
+18,pyram,Pyraminx
+19,skewb,Skewb
+20,sq1,Square-1
